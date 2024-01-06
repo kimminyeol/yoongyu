@@ -1,1 +1,1 @@
-print('dog')
+print('dog, 윤규병신')
